@@ -33,6 +33,6 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
     </p>
     
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=russell1130&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=russell1130&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=cupidbow20000&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=cupidbow20000&theme=dark&hide_border=true" width = 400>
 </p>
