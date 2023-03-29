@@ -37,7 +37,7 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=cupidbow20000&theme=dark&hide_border=true" width = 400>
   &nbsp;🔥 My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupidbow20000&layout=compact&theme=vision-friendly-dark)](https://github.com/olaf119/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupidbow20000&layout=compact&theme=vision-friendly-dark)](https://github.com/cupidbow20000/github-readme-stats)
 
 </p>
 
