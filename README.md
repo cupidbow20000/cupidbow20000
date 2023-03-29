@@ -38,7 +38,7 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
   &nbsp;🔥 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupidbow20000&layout=compact&theme=vision-friendly-dark)](https://github.com/cupidbow20000/github-readme-stats)
-
+<img width="345" style="margin-right: 30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cupidbow20000&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=7.5" />
 </p>
 
 ---
