@@ -13,46 +13,40 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 - 💬 Ask me about Fullstack development, distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
 - Full Stack Blockchain Developer - Available for Hire (Remote, Full Time)
 
-Hello,
-
-I am a Senior Blockchain & Full Stack Developer with over 6 years of rich experience in the industry. I am currently available for full-time remote work and can contribute to your projects anytime, anywhere.
-
  Skills & Expertise
 
-#### Blockchain Development
-- Smart Contract Development/Audit
-- Solidity, Hardhat, Truffle, Ethereum, BSC, Polygon
-- Rust, Anchor, Solana, NEAR, Terra
-- Cosmos SDK, Cosmwasm
-- Web3.js, Ethers.js, Moralis
-- DApps, DEX, DeFi, DAO, NFT marketplace
+   #### Blockchain Development
+   - Smart Contract Development/Audit
+   - Solidity, Hardhat, Truffle, Ethereum, BSC, Polygon
+   - Rust, Anchor, Solana, NEAR, Terra
+   - Cosmos SDK, Cosmwasm
+   - Web3.js, Ethers.js, Moralis
+   - DApps, DEX, DeFi, DAO, NFT marketplace
 
-#### Front-End Development
-- JavaScript, TypeScript
-- React, Next.js, Redux, Gatsby
-- Vue.js, Nuxt.js, Vuetify, Vuex, Quasar
-- AngularJS, Angular Materials
-- CSS 3, Bootstrap, TailWind CSS
-- Material UI, Styled-Component
+   #### Front-End Development
+   - JavaScript, TypeScript
+   - React, Next.js, Redux, Gatsby
+   - Vue.js, Nuxt.js, Vuetify, Vuex, Quasar
+   - AngularJS, Angular Materials
+   - CSS 3, Bootstrap, TailWind CSS
+   - Material UI, Styled-Component
 
-#### Back-End Development
-- Node.js, NestJS, ExpressJS, GoLang
-- PHP, Laravel
-- Python, Django, Flask
-- MongoDB, MySQL, Firebase, PostgreSQL
-- GraphQL, Apollo, Websocket, RESTful API
+   #### Back-End Development
+   - Node.js, NestJS, ExpressJS, GoLang
+   - PHP, Laravel
+   - Python, Django, Flask
+   - MongoDB, MySQL, Firebase, PostgreSQL
+   - GraphQL, Apollo, Websocket, RESTful API
 
-Availability & Commitment
+   Availability & Commitment
 
-As an individual freelancer without any ongoing projects, I am available to work full-time and at any time required. My career goal is to continuously learn and grow my skills from a technical standpoint while acquiring new skills over time.
+   As an individual freelancer without any ongoing projects, I am available to work full-time and at any time required. My career goal is to continuously learn and grow my skills from a technical standpoint while acquiring new skills over time.
 
-Contact & Further Information
+   Contact & Further Information
 
-Please feel free to reach out if you are interested in building something together or require more information about my experience. I look forward to connecting with you and discussing how I can contribute to the success of your project.
+   Please feel free to reach out if you are interested in building something together or require more information about my experience. I look forward to connecting with you and discussing how I can contribute to the success of your project.
 
-Thank you for considering my proposal.
 
-Best regards,
 - 📫 How to reach me:  cupid.bow0301@gmail.com, helemonar2023@gmail.com
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
