@@ -70,7 +70,7 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=cupidbow20000&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=cupidbow20000&theme=dark&hide_border=true" width = 400>
-  &nbsp;🔥 My Stats :
+  
 
 
 <img width="345" style="margin-right: 30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cupidbow20000&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=7.5" />
