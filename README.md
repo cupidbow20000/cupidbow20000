@@ -11,7 +11,7 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 - 🔭 I’m currently working on Exploring blockchain technologies.
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
 - 💬 Ask me about Fullstack development, distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
-- Full Stack Blockchain Developer - Available for Hire (Remote, Full Time)
+- 🏅Full Stack Blockchain Developer - Available for Hire (Remote, Full Time)
 - 📫 How to reach me:  cupid.bow0301@gmail.com, https://t.me/CupidBowArrow, 
                        
  <h3>Skills & Expertise</h3>
@@ -39,11 +39,11 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
    - MongoDB, MySQL, Firebase, PostgreSQL
    - GraphQL, Apollo, Websocket, RESTful API
 
-   Availability & Commitment
+   **Availability & Commitment**
 
    As an individual freelancer without any ongoing projects, I am available to work full-time and at any time required. My career goal is to continuously learn and grow my skills from a technical standpoint while acquiring new skills over time.
 
-   Contact & Further Information
+   **Contact & Further Information**
 
    Please feel free to reach out if you are interested in building something together or require more information about my experience. I look forward to connecting with you and discussing how I can contribute to the success of your project.
 
