@@ -13,7 +13,7 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 - 💬 Ask me about Fullstack development, distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
 - Full Stack Blockchain Developer - Available for Hire (Remote, Full Time)
 
- Skills & Expertise
+ <h3>Skills & Expertise</h3>
 
    #### Blockchain Development
    - Smart Contract Development/Audit
