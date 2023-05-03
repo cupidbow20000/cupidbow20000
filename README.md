@@ -7,12 +7,13 @@
  </abc>
 </h2> 
 
-I’m a software engineer with concentration in Blockchain and Full Stack Engineering. I love writing JavaScript, Typescript. I have worked as a full stack engineer building large scale distributed systems. Outside of my passion for building large scale distributed systems, I am interested in the future of work and how it will help transform startup development in Japan.
+I’m a software engineer with concentration in Blockchain and Full Stack Engineering. I love writing JavaScript, Typescript. I have worked as a full stack engineer building large scale distributed systems. Outside of my passion for building large scale distributed systems, I am interested in the future of work and how it will help transform startup development in the world.
 - 🔭 I’m currently working on Exploring blockchain technologies.
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
 - 💬 Ask me about Fullstack development, distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
 - Full Stack Blockchain Developer - Available for Hire (Remote, Full Time)
-
+- 📫 How to reach me:  cupid.bow0301@gmail.com, https://t.me/CupidBowArrow, 
+                       
  <h3>Skills & Expertise</h3>
 
    #### Blockchain Development
@@ -46,8 +47,6 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 
    Please feel free to reach out if you are interested in building something together or require more information about my experience. I look forward to connecting with you and discussing how I can contribute to the success of your project.
 
-
-- 📫 How to reach me:  cupid.bow0301@gmail.com, helemonar2023@gmail.com
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
