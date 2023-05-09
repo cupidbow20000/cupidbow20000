@@ -7,7 +7,7 @@
  </abc>
 </h2> 
 
-I’m a software engineer with concentration in Blockchain and Full Stack Engineering. I love writing JavaScript, Typescript. I have worked as a full stack engineer building large scale distributed systems. Outside of my passion for building large scale distributed systems, I am interested in the future of work and how it will help transform startup development in the world.
+Experienced Senior Full Stack and Blockchain Developer with over 6 years of experience in developing web applications, blockchain solutions, and decentralized finance (DeFi) platforms. Proficient in multiple programming languages including JavaScript, TypeScript, Python, and Solidity. Strong background in designing and deploying smart contracts on various blockchain platforms such as Ethereum, Binance Smart Chain, and Polygon. Demonstrated expertise in front-end development using ReactJS, Vue.js, and AngularJS. Passionate about leveraging emerging technologies to build scalable and secure solutions that meet business requirements. I am interested in the future of work and how it will help transform startup development in the world.
 - 🔭 I’m currently working on Exploring blockchain technologies.
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
 - 💬 Ask me about Fullstack development, distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
