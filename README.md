@@ -12,7 +12,7 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
 - 💬 Ask me about Fullstack development, distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
 - 🏅Full Stack Blockchain Developer - Available for Hire (Remote, Full Time)
-- 📫 How to reach me:  cupid.bow0301@gmail.com, https://t.me/CupidBowArrow, 
+- 📫 How to reach me:  cupid.bow0301@gmail.com
                        
  <h3>Skills & Expertise</h3>
 
