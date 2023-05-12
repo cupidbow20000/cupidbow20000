@@ -66,7 +66,7 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
-    
+    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cupidbow20000.cupidbow20000)
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=cupidbow20000&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=cupidbow20000&theme=dark&hide_border=true" width = 400>
