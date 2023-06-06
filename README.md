@@ -73,9 +73,9 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
   
 
 
-<img width="345" style="margin-right: 30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cupidbow20000&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=7.5" />
+<img width="400" style="margin-right: 30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cupidbow20000&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=7.5" />
  
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=devking877&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)-->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=cupidbow20000&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cupidbow20000)
