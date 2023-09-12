@@ -84,4 +84,3 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
-![Uploading arimax_emoji.png…]()
