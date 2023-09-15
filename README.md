@@ -56,3 +56,4 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=9)</p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+</p>
