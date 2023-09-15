@@ -56,7 +56,7 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=9)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=cupidbow20000)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cupidbow20000.cupidbow20000)
 </p>
 
 ---
