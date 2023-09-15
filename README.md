@@ -28,7 +28,7 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
 <div><b>Others</b> : Unity 3D, Matlab, Python, Photoshop, 3ds Max...</div>
                      
 <hr></hr>
-
+kingtiger6660@gmail.com
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
