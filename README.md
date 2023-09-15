@@ -17,13 +17,13 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
 <div>- 💬 Ask me about Fullstack development, Distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.</div>
 <div>- 🏅Full Stack & Blockchain Developer - Available for Hire (Remote, Full Time)</div>
 <div>- 📫 How to reach me:  hiroshi.tokudome0921@gmail.com</div>
-<div><span>Frontend</span> : HTML, CSS, Tailwind, Bootstrap, React/ Redux/ Material UI, Angular/ Vue...</div>
-<div><span style="color:#36BCF7FF;">Backend</span> : PHP/ Laravel, Node.js/ Express.js, Python/ Django,Java, C# / ASP.NET Core...</div>
-<div><span style="color:#36BCF7FF;">Blockchain</span> : Web3.js/Ether.js, Solidity/Rust, Truffle/Hardhat, Mint/Staking /Farming ,NFTMarketplace,Solana,Cosmos, DAO, EOS, Dapps, Taproot, Fedimint and Tapyrus ...</div>
-<div><span style="color:#36BCF7FF;">Database</span> : MySQL, SQLite, MongoDB, Amazon DynamoDB, PostgreSQL ...</div>
-<div><span style="color:#36BCF7FF;">PM Tools</span> : Github, Gitlab, Bitbucket, Trello, Asana, Jira ...</div>
-<div><span style="color:#36BCF7FF;">Services</span> : Firebase, AWS, Azure, Amplify, Bluehost, Cpanel ...</div>
-<div><span style="color:#36BCF7FF;">Others</span> : Unity 3D, Matlab, Python, Photoshop, 3ds Max...</div>
+<div><span>Frontend</b> : HTML, CSS, Tailwind, Bootstrap, React/ Redux/ Material UI, Angular/ Vue...</div>
+<div><b>Backend</b> : PHP/ Laravel, Node.js/ Express.js, Python/ Django,Java, C# / ASP.NET Core...</div>
+<div><b>Blockchain</b> : Web3.js/Ether.js, Solidity/Rust, Truffle/Hardhat, Mint/Staking /Farming ,NFTMarketplace,Solana,Cosmos, DAO, EOS, Dapps, Taproot, Fedimint and Tapyrus ...</div>
+<div><b>Database</b> : MySQL, SQLite, MongoDB, Amazon DynamoDB, PostgreSQL ...</div>
+<div><b>PM Tools</b> : Github, Gitlab, Bitbucket, Trello, Asana, Jira ...</div>
+<div><b>Services</b> : Firebase, AWS, Azure, Amplify, Bluehost, Cpanel ...</div>
+<div><b>Others</b> : Unity 3D, Matlab, Python, Photoshop, 3ds Max...</div>
  </div>                       
 
 
