@@ -13,7 +13,7 @@
  <p>
 Experienced Senior Full Stack and Blockchain Developer with over 6 years of experience in developing web applications, blockchain solutions, and decentralized finance (DeFi) platforms. Proficient in multiple programming languages including JavaScript, TypeScript, Python, and Solidity. Strong background in designing and deploying smart contracts on various blockchain platforms such as Ethereum, Binance Smart Chain, and Polygon. Demonstrated expertise in front-end development using ReactJS, Vue.js, and AngularJS. Passionate about leveraging emerging technologies to build scalable and secure solutions that meet business requirements. I am interested in the future of work and how it will help transform startup development in the world.</p>
 <div>- 🔭 I’m currently working on Exploring blockchain technologies.</div>
-<div>- 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
+<div>- 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.</div>  
 <div>- 💬 Ask me about Fullstack development, Distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.</div>
 <div>- 🏅Full Stack & Blockchain Developer - Available for Hire (Remote, Full Time)</div>
 <div>- 📫 How to reach me:  <b>Email</b>:hiroshi.tokudome0921@gmail.com, <b>Telegram</b>:@HiroshiTokudome1995, <b>Discord</b>:HiroshiTokudome</div>
@@ -25,7 +25,7 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
 <div><b>PM Tools</b> : Github, Gitlab, Bitbucket, Trello, Asana, Jira ...</div>
 <div><b>Services</b> : Firebase, AWS, Azure, Amplify, Bluehost, Cpanel ...</div>
 <div><b>Others</b> : Unity 3D, Matlab, Python, Photoshop, 3ds Max...</div>
-</div>                       
+                     
 <hr></hr>
 
 
