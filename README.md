@@ -8,7 +8,7 @@
 </h2>
 <div align="left">
   <img align="right" alt="Coding" width="400" src="https://github.com/atosguru/atosguru/blob/main/coding.gif?raw=true">
-
+<h2 align="left">🖋 Summary:</h2>
 Experienced Senior Full Stack and Blockchain Developer with over 6 years of experience in developing web applications, blockchain solutions, and decentralized finance (DeFi) platforms. Proficient in multiple programming languages including JavaScript, TypeScript, Python, and Solidity. Strong background in designing and deploying smart contracts on various blockchain platforms such as Ethereum, Binance Smart Chain, and Polygon. Demonstrated expertise in front-end development using ReactJS, Vue.js, and AngularJS. Passionate about leveraging emerging technologies to build scalable and secure solutions that meet business requirements. I am interested in the future of work and how it will help transform startup development in the world.
 - 🔭 I’m currently working on Exploring blockchain technologies.
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
