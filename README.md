@@ -17,7 +17,8 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
 <div>- 💬 Ask me about Fullstack development, Distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.</div>
 <div>- 🏅Full Stack & Blockchain Developer - Available for Hire (Remote, Full Time)</div>
 <div>- 📫 How to reach me:  hiroshi.tokudome0921@gmail.com</div>
-<div><span>Frontend</b> : HTML, CSS, Tailwind, Bootstrap, React/ Redux/ Material UI, Angular/ Vue...</div>
+ <h2 align="left">🔬 Technologies</h2>
+<div><b>Frontend</b> : HTML, CSS, Tailwind, Bootstrap, React/ Redux/ Material UI, Angular/ Vue...</div>
 <div><b>Backend</b> : PHP/ Laravel, Node.js/ Express.js, Python/ Django,Java, C# / ASP.NET Core...</div>
 <div><b>Blockchain</b> : Web3.js/Ether.js, Solidity/Rust, Truffle/Hardhat, Mint/Staking /Farming ,NFTMarketplace,Solana,Cosmos, DAO, EOS, Dapps, Taproot, Fedimint and Tapyrus ...</div>
 <div><b>Database</b> : MySQL, SQLite, MongoDB, Amazon DynamoDB, PostgreSQL ...</div>
