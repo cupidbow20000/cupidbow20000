@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;I%20am%20Hiroshi%20Tokudome;Full%20Stack%20Developer;BlockChain%20Developer;6%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&&width=900&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 <div align="left">
   <img align="right" alt="Coding" width="400" src="https://github.com/atosguru/atosguru/blob/main/coding.gif?raw=true">
-<h2 align="left">🖋 Summary:</h2>
+<h2 align="left">📝 Summary:</h2>
  <p>
 Experienced Senior Full Stack and Blockchain Developer with over 6 years of experience in developing web applications, blockchain solutions, and decentralized finance (DeFi) platforms. Proficient in multiple programming languages including JavaScript, TypeScript, Python, and Solidity. Strong background in designing and deploying smart contracts on various blockchain platforms such as Ethereum, Binance Smart Chain, and Polygon. Demonstrated expertise in front-end development using ReactJS, Vue.js, and AngularJS. Passionate about leveraging emerging technologies to build scalable and secure solutions that meet business requirements. I am interested in the future of work and how it will help transform startup development in the world.</p>
 <div>- 🔭 I’m currently working on Exploring blockchain technologies.</div>
