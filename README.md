@@ -23,12 +23,7 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
    **Contact & Further Information**
 
    Please feel free to reach out if you are interested in building something together or require more information about my experience. I look forward to connecting with you and discussing how I can contribute to the success of your project.
- </div>                      
- <h3>Skills & Expertise</h3>
-
-
-
-   
+ </div>                       
 
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -55,7 +50,7 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
  <a href="https://github.com/cupidbow20000?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=cupidbow20000&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
  <a href="https://github.com/cupidbow20000?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=cupidbow20000&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 
-<img width="400" style="margin-right: 30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cupidbow20000&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=7.5" />
+<img width="400" style="margin-right: 30px; width:100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cupidbow20000&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=7.5" />
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=cupidbow20000&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)-->
 
