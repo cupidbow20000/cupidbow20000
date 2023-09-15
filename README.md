@@ -26,7 +26,7 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
 <div><b>Services</b> : Firebase, AWS, Azure, Amplify, Bluehost, Cpanel ...</div>
 <div><b>Others</b> : Unity 3D, Matlab, Python, Photoshop, 3ds Max...</div>
 </div>                       
-<br>
+<hr></hr>
 
 
 <p align="left">
