@@ -15,14 +15,6 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
 - 💬 Ask me about Fullstack development, Distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
 - 🏅Full Stack & Blockchain Developer - Available for Hire (Remote, Full Time)
 - 📫 How to reach me:  hiroshi.tokudome0921@gmail.com
-  
-  **Availability & Commitment**
-
-   As an individual freelancer without any ongoing projects, I am available to work full-time and at any time required. My career goal is to continuously learn and grow my skills from a technical standpoint while acquiring new skills over time.
-
-   **Contact & Further Information**
-
-   Please feel free to reach out if you are interested in building something together or require more information about my experience. I look forward to connecting with you and discussing how I can contribute to the success of your project.
  </div>                       
 
 
