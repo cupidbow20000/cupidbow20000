@@ -2,7 +2,7 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <p align="center">
-  <a href="https://github.com/cupidbow20000"><img src="https://readme-typing-svg.herokuapp.com/?  lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;6%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
   </p>
   
   <br>
