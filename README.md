@@ -2,7 +2,7 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;I%20am%20Hiroshi%20Tokudome;Full%20Stack%20Developer;BlockChain%20Developer;6%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&&background=162436D2&&width=700&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;I%20am%20Hiroshi%20Tokudome;Full%20Stack%20Developer;BlockChain%20Developer;6%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&&&&width=700&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
   </p>
   </abc>
 </h2>
@@ -15,39 +15,20 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
 - 💬 Ask me about Fullstack development, Distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
 - 🏅Full Stack & Blockchain Developer - Available for Hire (Remote, Full Time)
 - 📫 How to reach me:  hiroshi.tokudome0921@gmail.com
- </div>                      
- <h3>Skills & Expertise</h3>
-
-   #### Blockchain Development
-   - Smart Contract Development/Audit
-   - Solidity, Hardhat, Truffle, Ethereum, BSC, Polygon
-   - Rust, Anchor, Solana, NEAR, Terra
-   - Cosmos SDK, Cosmwasm
-   - Web3.js, Ethers.js, Moralis
-   - DApps, DEX, DeFi, DAO, NFT marketplace
-
-   #### Front-End Development
-   - JavaScript, TypeScript
-   - React, Next.js, Redux, Gatsby
-   - Vue.js, Nuxt.js, Vuetify, Vuex, Quasar
-   - AngularJS, Angular Materials
-   - CSS 3, Bootstrap, TailWind CSS
-   - Material UI, Styled-Component
-
-   #### Back-End Development
-   - Node.js, NestJS, ExpressJS, GoLang
-   - PHP, Laravel
-   - Python, Django, Flask
-   - MongoDB, MySQL, Firebase, PostgreSQL
-   - GraphQL, Apollo, Websocket, RESTful API
-
-   **Availability & Commitment**
+  
+  **Availability & Commitment**
 
    As an individual freelancer without any ongoing projects, I am available to work full-time and at any time required. My career goal is to continuously learn and grow my skills from a technical standpoint while acquiring new skills over time.
 
    **Contact & Further Information**
 
    Please feel free to reach out if you are interested in building something together or require more information about my experience. I look forward to connecting with you and discussing how I can contribute to the success of your project.
+ </div>                      
+ <h3>Skills & Expertise</h3>
+
+
+
+   
 
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
