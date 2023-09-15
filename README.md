@@ -16,7 +16,7 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
 <div>- 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
 <div>- 💬 Ask me about Fullstack development, Distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.</div>
 <div>- 🏅Full Stack & Blockchain Developer - Available for Hire (Remote, Full Time)</div>
-<div>- 📫 How to reach me:  <b>Email</b>:hiroshi.tokudome0921@gmail.com, <b>Telegram</b>:@HiroshiTokudome1995, <b>Discord:HiroshiTokudome</b></div>
+<div>- 📫 How to reach me:  <b>Email</b>:hiroshi.tokudome0921@gmail.com, <b>Telegram</b>:@HiroshiTokudome1995, <b>Discord</b>:HiroshiTokudome</div>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <div><b>Frontend</b> : HTML, CSS, Tailwind, Bootstrap, React/ Redux/ Material UI, Angular/ Vue...</div>
 <div><b>Backend</b> : PHP/ Laravel, Node.js/ Express.js, Python/ Django,Java, C# / ASP.NET Core...</div>
