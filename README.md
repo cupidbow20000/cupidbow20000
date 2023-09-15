@@ -17,14 +17,13 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
 <div>- 💬 Ask me about Fullstack development, Distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.</div>
 <div>- 🏅Full Stack & Blockchain Developer - Available for Hire (Remote, Full Time)</div>
 <div>- 📫 How to reach me:  hiroshi.tokudome0921@gmail.com</div>
- Frontend : HTML, CSS, Tailwind, Bootstrap, React/ Redux/ Material UI, Angular/ Vue...
-Backend : PHP/ Laravel, Node.js/ Express.js, Python/ Django,Java, C# / ASP.NET Core...
-Blockchain : Web3.js/Ether.js, Solidity/Rust, Truffle/Hardhat, Mint/Staking /Farming ,
-NFTMarketplace,Solana,Cosmos, DAO, EOS, Dapps, Taproot, Fedimint and Tapyrus …
-Database : MySQL, SQLite, MongoDB, Amazon DynamoDB, PostgreSQL ...
-PM Tools : Github, Gitlab, Bitbucket, Trello, Asana, Jira ...
-Services : Firebase, AWS, Azure, Amplify, Bluehost, Cpanel ...
-Others : Unity 3D, Matlab, Python, Photoshop, 3ds Max...
+<div>Frontend : HTML, CSS, Tailwind, Bootstrap, React/ Redux/ Material UI, Angular/ Vue...</div>
+<div>Backend : PHP/ Laravel, Node.js/ Express.js, Python/ Django,Java, C# / ASP.NET Core...</div>
+<div>Blockchain : Web3.js/Ether.js, Solidity/Rust, Truffle/Hardhat, Mint/Staking /Farming ,NFTMarketplace,Solana,Cosmos, DAO, EOS, Dapps, Taproot, Fedimint and Tapyrus ...</div>
+<div>Database : MySQL, SQLite, MongoDB, Amazon DynamoDB, PostgreSQL ...</div>
+<div>PM Tools : Github, Gitlab, Bitbucket, Trello, Asana, Jira ...</div>
+<div>Services : Firebase, AWS, Azure, Amplify, Bluehost, Cpanel ...</div>
+<div>Others : Unity 3D, Matlab, Python, Photoshop, 3ds Max...</div>
  </div>                       
 
 
