@@ -69,8 +69,8 @@ Experienced Senior Full Stack and Blockchain Developer with over 6 years of expe
     
 <p align = "center">
   
- <a href="https://github.com/cupidbow20000?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=atosguru&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
- <a href="https://github.com/cupidbow20000?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=atosguru&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+ <a href="https://github.com/cupidbow20000?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=cupidbow20000&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+ <a href="https://github.com/cupidbow20000?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=cupidbow20000&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 
 <img width="400" style="margin-right: 30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cupidbow20000&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=7.5" />
 
