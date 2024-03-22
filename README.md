@@ -6,7 +6,7 @@
   </p>
   </abc>
 </h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;I%20am%20Hiroshi%20Tokudome;Full%20Stack%20Developer;BlockChain%20Developer;6%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&&width=900&height=120&color=003140&vCenter=true&size=45%22"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Full%20Stack%20Developer;BlockChain%20Developer;6%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&&width=900&height=120&color=003140&vCenter=true&size=45%22"></a>
 <div align="left">
  <img align="right" alt="Coding" width="400" src="https://github.com/atosguru/atosguru/blob/main/coding.gif?raw=true">
  <h2 align="left">📝 Summary:</h2>
@@ -15,7 +15,7 @@
  <div>- 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.</div>  
  <div>- 💬 Ask me about Fullstack development, Distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.</div>
  <div>- 🏅Full Stack & Blockchain Developer - Available for Hire (Remote, Full Time)</div>
- <div>- 📫 How to reach me: <b>Email</b>:hiroshi.tokudome1995@gmail.com <b>Telegram</b>:@HiroshiTokudome1995, <b>Discord</b>:HiroshiTokudome</div>
+
 </div>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <div><b>Frontend</b> : HTML, CSS, Tailwind, Bootstrap, React/ Redux/ Material UI, Angular/ Vue...</div>
